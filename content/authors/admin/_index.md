@@ -24,10 +24,10 @@ role: Post-doctoral Researcher | Applied Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Twente
-    url: https://www.utwente.nl/en/
-  - name: Inertia Technology B. V. 
-    url: https://inertia-technology.com/
+  - name: University of Twente | Inertia Technology B. V. 
+    url: https://www.utwente.nl/en/ | https://inertia-technology.com/
+  # - name: Inertia Technology B. V. 
+  #   url: https://inertia-technology.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -35,8 +35,8 @@ profiles:
   - icon: at-symbol
     url: 'sabarinathan94@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
   - icon: brands/github
@@ -49,10 +49,11 @@ profiles:
     url: https://orcid.org/0000-0002-9509-4497
 
 interests:
-  - Wireless Networking
+  - Purpose-specific Wireless Networking 
+  - Agentic AI
   - (Industrial) Internet of Things
   - Cyber-physical Systems 
-  - Agentic AI
+
 
 
 education:
@@ -61,36 +62,38 @@ education:
     date_start: 2018-06-01
     date_end: 2024-12-03
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _How can we make Industrial IoT Systems Self-aware_. Supervised by [Prof. Paul Havinga](https://scholar.google.com/citations?user=tthSxV0AAAAJ&hl=en), [Dr. Alex Chiumento](http://alexchiumento.eu/), and [Prof. Maarten van Steen](https://www.distributed-systems.net/index.php/me/). Presented papers at five international conferences and published one journal article.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://doi.org/10.3990/1.9789036563352'
+  - area: MTech Networking & Communication
+    institution: International Institute of Information Technology - Bangalore
+    date_start: 2016-07-01
+    date_end: 2018-05-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.85/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Wireless Access Networks
+      - Software Defined Networks and Network Function Virtualization
+      - Internet of Things
+      - Network Security
+      - Data Analytics
+  - area: BTech Information Technology
+    institution: Easwari Engineering College, Anna University
+    date_start: 2011-08-01
+    date_end: 2015-05-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 7.8/10.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Object Oriented Programming, Java, C/C++, Web Progeramming
+      - Computer Networks, Network Security, Information Theory
+      - Database Management Systems, Operating Systems, Distributed Systems
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Post-doctoral Researcher
+    company_name: University of Twente
+    company_url: https://www.utwente.nl/en/
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
